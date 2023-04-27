@@ -11,4 +11,4 @@ public class InventoryManagementApplication {
 		SpringApplication.run(InventoryManagementApplication.class, args);
 	}
 
-}#tetsing2
+}#tetsi22
