@@ -1,0 +1,16 @@
+.login-bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: #cae0ff;
+
+    .login--row {
+        width: 50%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        background-color: #fff;
+        border-radius: 10px;
+    }
+}
