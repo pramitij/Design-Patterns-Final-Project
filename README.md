@@ -1,7 +1,7 @@
 # CSYE7343: DESIGN PATTERN FINAL PROJECT
-##INVENTORY MANAGEMENT SYSTEM - Team 04
+## INVENTORY MANAGEMENT SYSTEM - Team 04
 
-###Team Members:
+### Team Members:
 Pramithi Jagdish (2192816)
 Ashish Pandey (2111397)
 Nishita Upadhyay (2125298)
@@ -10,14 +10,14 @@ Neha Chandel (1593822)
 
 
 
-##Summary:
+## Summary:
 
 We’ve implemented an Inventory Management System using different design patterns
 to build a robust and flexible web application that helps manage inventory for a retail store.
 The application allows users to add new products, edit existing products, and delete products that are no longer needed.
 The application is built using Java and Spring Boot on the back-end, and React.js on the front-end.
 
-###We have demonstrated the use of the following Design Patterns:
+### We have demonstrated the use of the following Design Patterns:
 
 Abstract Factory
 Command
@@ -28,17 +28,17 @@ Factory
 Facade
 Decorator
 
-##Tech Stack:
+## Tech Stack:
 
-###Programming Languages:
+### Programming Languages:
 Java
 JavaScript
 
-###Frameworks:
+### Frameworks:
 Spring Boot (Backend)
 React (Front End)
 
-###Libraries:
+### Libraries:
 React.js (for building UI components)
 Axios (for making HTTP requests)
 Bootstrap (for styling UI components)
@@ -49,7 +49,7 @@ tables)
 Log4j (for logging and debugging)
 
 
-##Operating instructions:
+## Operating instructions:
 
 1. Clone Repo from github
 
