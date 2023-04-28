@@ -2,11 +2,11 @@
 ## INVENTORY MANAGEMENT SYSTEM - Team 04
 
 ### Team Members:
-Pramithi Jagdish (2192816)
-Ashish Pandey (2111397)
-Nishita Upadhyay (2125298)
-Himanshu Walia (2960393)
-Neha Chandel (1593822)
+1. Pramithi Jagdish (2192816)
+2. Ashish Pandey (2111397)
+3. Nishita Upadhyay (2125298)
+4. Himanshu Walia (2960393)
+5. Neha Chandel (1593822)
 
 
 
@@ -19,14 +19,14 @@ The application is built using Java and Spring Boot on the back-end, and React.j
 
 ### We have demonstrated the use of the following Design Patterns:
 
-Abstract Factory
-Command
-Strategy
-State
-Observer
-Factory
-Facade
-Decorator
+1. Abstract Factory
+2. Command
+3. Strategy
+4. State
+5. Observer
+6. Factory
+7. Facade
+8. Decorator
 
 ## Tech Stack:
 
